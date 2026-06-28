@@ -1,0 +1,1 @@
+{"ast":null,"code":"\"use strict\";\n\nrequire(\"@next/polyfill-nomodule\");","map":{"version":3,"names":["require"],"sources":["C:/Users/HP/Downloads/Arti/node_modules/next/dist/client/polyfills.js"],"sourcesContent":["\"use strict\";require(\"@next/polyfill-nomodule\");"],"mappings":"AAAA,YAAY;;AAACA,OAAO,CAAC,yBAAyB,CAAC","ignoreList":[]},"metadata":{},"sourceType":"script"}

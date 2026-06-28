@@ -1,0 +1,8 @@
+{
+  "buildCommand": "prisma generate && next build",
+  "outputDirectory": ".next",
+  "env": {
+    "DATABASE_URL": "postgresql://..."
+  },
+  "regions": ["bom1"]
+}
